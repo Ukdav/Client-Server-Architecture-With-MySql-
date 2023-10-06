@@ -79,6 +79,13 @@ On the MySQL client Linux Server install MySQL Client software.
 
 ![sudo apt install client](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/5d1feda6-c4c4-40fb-9d67-6cd6e21f2bf4)
 
+Open port 3306 on Mysql server to allow for connection. Both servers can communicate using private IPs since they belong to the same subnet.
+
+![inbound rules](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/5af84736-b669-46bb-be8f-f8365da6869b)
+
+
+
+
 
 
 
