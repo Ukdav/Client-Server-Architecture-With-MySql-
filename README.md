@@ -89,6 +89,24 @@ Change bind-address on Mysql-server to allow for connection from any IP address.
 
 ![change ip](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/ad0087c9-3ca7-4061-b546-79ddfcc95df0)
 
+Configure MySQL server and create a database and user
+
+* Set up password with *sudo mysql_secure_installation* and create a user
+
+* Create database
+
+![showdatabases](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/92c79667-e134-4edc-b3bb-8b546fd41403)
+
+
+
+![GRANT PERMISSION](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/ffbb0690-4ac7-4eee-821f-71b8729fab65)
+
+
+
+* 
+
+
+
 
 
 
