@@ -71,6 +71,12 @@ Name one instance of Mysql-server and the other Mysql-client
 
 On the MySQL server, Linux Server installs MySQL Server software while the Client installs Mysql-client
 
+![sudo apt install server](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/2c7a29f9-ce8b-4e41-8fc2-afc942cd6f57)
+
+![sysmctl](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/542c9046-8723-4592-b228-21ea878273a8)
+
+On the MySQL client Linux Server install MySQL Client software.
+
 ![sudo apt install client](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/5d1feda6-c4c4-40fb-9d67-6cd6e21f2bf4)
 
 
