@@ -61,9 +61,19 @@ MySQL offers data backup and recovery mechanisms to safeguard against data loss 
 
 To demonstrate Client-Server architecture we will be using two Ec2 instances with mysql-server and mysql-client respectively.
 
+Create and configure two Linux-based virtual servers (EC2 instances in AWS).
+
 Name one instance of Mysql-server and the other Mysql-client
 
 ![ec2vinstance server installation](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/e0c59a61-c569-4146-a226-090707eba8d5)
+
+**Note:** Make sure they are both in the same subnet
+
+On the MySQL server, Linux Server installs MySQL Server software while the Client installs Mysql-client
+
+![sudo apt install client](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/5d1feda6-c4c4-40fb-9d67-6cd6e21f2bf4)
+
+
 
 
 
