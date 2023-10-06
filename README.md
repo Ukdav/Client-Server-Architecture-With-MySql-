@@ -83,6 +83,13 @@ Open port 3306 on Mysql server to allow for connection. Both servers can communi
 
 ![inbound rules](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/5af84736-b669-46bb-be8f-f8365da6869b)
 
+Change bind-address on Mysql-server to allow for connection from any IP address. Set the bind address to 0.0.0.0 using the command below:
+
+*sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf* 
+
+![change ip](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/ad0087c9-3ca7-4061-b546-79ddfcc95df0)
+
+
 
 
 
