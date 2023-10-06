@@ -49,7 +49,7 @@ Security is crucial in a client-server architecture with MySQL. Access control, 
 
 MySQL offers data backup and recovery mechanisms to safeguard against data loss or system failures. This includes tools for creating backups, restoring data, and maintaining data consistency.
 
-# Project Architecture Diagram
+**Project Architecture Diagram**
 
 ![furthe diagram](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/cdb682b9-1317-49b3-a740-32b658054e01)
 
@@ -58,6 +58,8 @@ To demonstrate Client-Server architecture we will be using two Ec2 instance with
 Name one instance Mysql-server the other Mysql-client
 
 ![ec2vinstance server installation](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/e0c59a61-c569-4146-a226-090707eba8d5)
+
+
 
 
 
