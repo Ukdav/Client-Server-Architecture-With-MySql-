@@ -53,9 +53,15 @@ MySQL offers data backup and recovery mechanisms to safeguard against data loss 
 
 ![furthe diagram](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/cdb682b9-1317-49b3-a740-32b658054e01)
 
-To demonstrate Client-Server architecture we will be using two Ec2 instance with mysql-server and mysql-client respectively.
+![project server](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/dbf6f0b4-a0be-49e6-b2a1-532927815a31)
 
-Name one instance Mysql-server the other Mysql-client
+![sudo apt install curl](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/dc2a8e88-f323-4084-8691-b69523063558)
+
+![proxihome](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/39eb232d-6375-4849-a029-344639f01400)
+
+To demonstrate Client-Server architecture we will be using two Ec2 instances with mysql-server and mysql-client respectively.
+
+Name one instance of Mysql-server and the other Mysql-client
 
 ![ec2vinstance server installation](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/e0c59a61-c569-4146-a226-090707eba8d5)
 
