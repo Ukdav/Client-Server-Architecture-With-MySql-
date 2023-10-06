@@ -95,11 +95,17 @@ Configure MySQL server and create a database and user
 
 * Create database
 
+![SUDO MYSQL](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/9e1dc696-704c-424a-8c10-d56bb238bfee)
+
 ![showdatabases](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/92c79667-e134-4edc-b3bb-8b546fd41403)
 
-
+* Grant all permission on the database
 
 ![GRANT PERMISSION](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/ffbb0690-4ac7-4eee-821f-71b8729fab65)
+
+From MySQL client Linux Server connects remotely to MySQL server Database Engine without using SSH, You'll need to use the Mysql utility to perform this action.
+
+
 
 
 
