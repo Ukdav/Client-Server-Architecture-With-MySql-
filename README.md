@@ -105,6 +105,13 @@ Configure MySQL server and create a database and user
 
 From MySQL client Linux Server connects remotely to MySQL server Database Engine without using SSH, You'll need to use the Mysql utility to perform this action.
 
+![connecting to server](https://github.com/Ukdav/Client-Server-Architecture-With-MySql-/assets/139593350/53cc4b66-b185-4a71-9fcb-1c667b5d3ec6)
+
+In summary, Client-Server Architecture with MySQL forms the foundation of many modern applications, enabling secure, scalable, and efficient data management and retrieval. 
+
+It separates the presentation layer (client) from the data storage and processing layer (server), facilitating collaborative and distributed application development.
+
+
 
 
 
